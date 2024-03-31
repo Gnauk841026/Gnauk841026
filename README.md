@@ -1,6 +1,7 @@
-### Hi there 👋
+![Photo](Photo/119101.jpg)
 
 <!--
+### Hi there 👋
 **Gnauk841026/Gnauk841026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
